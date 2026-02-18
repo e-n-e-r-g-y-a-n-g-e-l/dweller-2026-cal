@@ -1,0 +1,315 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Dweller 2026//Schedule//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Dweller 2026
+BEGIN:VEVENT
+UID:dweller2026-e01@dwellerforever.club
+DTSTART;TZID=America/New_York:20260216T100000
+DTEND;TZID=America/New_York:20260216T120000
+SUMMARY:107.5 WNGR 24hr broadcast
+DESCRIPTION:DWELLER 2026 — 107.5 WNGR 24hr broadcast\nType: Radio\ndwelle
+ rforever.club
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e02@dwellerforever.club
+DTSTART;TZID=America/New_York:20260217T190000
+DTEND;TZID=America/New_York:20260217T210000
+SUMMARY:Alexander G. Weheliye\, Abdu Ali\, SCRAAATCH\, Telfar\, Sweater On 
+ Polo @ Performance Space
+DESCRIPTION:DWELLER 2026 — Rain Fade\nArtists: Alexander G. Weheliye, Abd
+ u Ali, SCRAAATCH, Telfar, Sweater On Polo\nType: Performance\nTickets: htt
+ ps://ra.co/events/2369672\ndwellerforever.club
+LOCATION:Performance Space\, 150 1st Ave\, New York\, NY 10009
+URL:https://ra.co/events/2369672
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e03@dwellerforever.club
+DTSTART;TZID=America/New_York:20260218T190000
+DTEND;TZID=America/New_York:20260218T220000
+SUMMARY:Digital Durag @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Trap n' Rap\nArtists: Digital Durag\nType: Clu
+ b\ndwellerforever.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e04@dwellerforever.club
+DTSTART;TZID=America/New_York:20260218T220000
+DTEND;TZID=America/New_York:20260219T040000
+SUMMARY:DJ Miss Parker\, Special Guest @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Null Island\nArtists: DJ Miss Parker, Special 
+ Guest\nType: Club\nTickets: https://ra.co/events/2354361\ndwellerforever.c
+ lub
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+URL:https://ra.co/events/2354361
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e05@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T220000
+DTEND;TZID=America/New_York:20260220T040000
+SUMMARY:Ash Lauryn\, AMX @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Aquaduct (Underground & Black)\nArtists: Ash L
+ auryn, AMX\nType: Club\nTickets: https://ra.co/events/2354364\ndwellerfore
+ ver.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+URL:https://ra.co/events/2354364
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e06@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T200000
+DTEND;TZID=America/New_York:20260220T040000
+SUMMARY:NANA XOXO x Kwami Winfield\, ARCHANGEL\, Slim Soledad\, BATTYGYAL B
+ 2B DILUVIA\, LYSIS\, Infinite Coles\, keiyaA @ Nowadays
+DESCRIPTION:DWELLER 2026 — Pressure at Depth (BODYHACK)\nArtists: NANA XO
+ XO x Kwami Winfield, ARCHANGEL, Slim Soledad, BATTYGYAL B2B DILUVIA, LYSIS
+ , Infinite Coles, keiyaA\nType: Club\nTickets: https://ra.co/events/233526
+ 8\ndwellerforever.club
+LOCATION:Nowadays\, 56-06 Cooper Ave\, Glendale\, NY 11385
+URL:https://ra.co/events/2335268
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e07@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T220000
+DTEND;TZID=America/New_York:20260220T040000
+SUMMARY:Immaculate Deception of History (Moor Mother\, Hieroglyphic Being)\
+ , Doula\, DiM\, Force Placement\, Sol Cabrini\, Nazareth Hassan\, S*an D. 
+ Henry-Smith\, RaFia @ Paragon
+DESCRIPTION:DWELLER 2026 — Water that Feeds the Wells\nArtists: Immaculat
+ e Deception of History (Moor Mother, Hieroglyphic Being), Doula, DiM, Forc
+ e Placement, Sol Cabrini, Nazareth Hassan, S*an D. Henry-Smith, RaFia\nTyp
+ e: Conversation, Performance\nTickets: https://ra.co/events/2354432\ndwell
+ erforever.club
+LOCATION:Paragon\, 990 Broadway\, Brooklyn\, NY 11206
+URL:https://ra.co/events/2354432
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e08@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T190000
+DTEND;TZID=America/New_York:20260219T220000
+SUMMARY:Yaz Lancaster\, Bongowattz\, Robert Aiki Aubrey Lowe @ Public Recor
+ ds
+DESCRIPTION:DWELLER 2026 — Hush Harbor\nArtists: Yaz Lancaster, Bongowatt
+ z, Robert Aiki Aubrey Lowe\nType: Performance\nTickets: https://ra.co/even
+ ts/2359009\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2359009
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e09@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T220000
+DTEND;TZID=America/New_York:20260220T040000
+SUMMARY:Niyah West\, Bookworms\, DJ Linda\, Stemlines\, Search Party (Max W
+ atts\, Kasan Belgrave\, Allen Dennard) @ Public Records
+DESCRIPTION:DWELLER 2026 — Phase Shift (Limited Network)\nArtists: Niyah 
+ West, Bookworms, DJ Linda, Stemlines, Search Party (Max Watts, Kasan Belgr
+ ave, Allen Dennard)\nType: Club, Performance\nTickets: https://ra.co/event
+ s/2348007\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2348007
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e10@dwellerforever.club
+DTSTART;TZID=America/New_York:20260219T180000
+DTEND;TZID=America/New_York:20260219T190000
+SUMMARY:Demiyah @ Nowadays
+DESCRIPTION:DWELLER 2026 — Angelito Collective: Restorative Flow\nArtists
+ : Demiyah\nType: Workshop\nTickets: https://ra.co/events/2347288\ndwellerf
+ orever.club
+LOCATION:Nowadays\, 56-06 Cooper Ave\, Glendale\, NY 11385
+URL:https://ra.co/events/2347288
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e11@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T190000
+DTEND;TZID=America/New_York:20260220T200000
+SUMMARY:DJ Lindsey\, DJ Tara\, Mo Yasin @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Lens on Me (SLICK DOWN)\nArtists: DJ Lindsey, 
+ DJ Tara, Mo Yasin\nType: Conversation\ndwellerforever.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e12@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T220000
+DTEND;TZID=America/New_York:20260221T040000
+SUMMARY:Love Higher\, Wahala.wav\, Simisola @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Slickenslide (SLICK DOWN)\nArtists: Love Highe
+ r, Wahala.wav, Simisola\nType: Club\nTickets: https://ra.co/events/2354365
+ \ndwellerforever.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+URL:https://ra.co/events/2354365
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e13@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T180000
+DTEND;TZID=America/New_York:20260220T190000
+SUMMARY:A Guy Called Gerald\, Russell E.L. Butler @ Public Records
+DESCRIPTION:DWELLER 2026 — The Root: In Conversation with A Guy Called Ge
+ rald\nArtists: A Guy Called Gerald, Russell E.L. Butler\nType: Conversatio
+ n\nTickets: https://ra.co/events/2359105\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2359105
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e14@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T230000
+DTEND;TZID=America/New_York:20260221T040000
+SUMMARY:A Guy Called Gerald\, Nkisi\, Carista\, Spurge\, Shawn Dub @ Public
+  Records
+DESCRIPTION:DWELLER 2026 — The Nile\nArtists: A Guy Called Gerald, Nkisi,
+  Carista, Spurge, Shawn Dub\nType: Club\nTickets: https://ra.co/events/234
+ 8021\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2348021
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e15@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T220000
+DTEND;TZID=America/New_York:20260221T040000
+SUMMARY:Introspekt\, Joe Nice @ Nowadays
+DESCRIPTION:DWELLER 2026 — Very Low Frequencies\nArtists: Introspekt, Joe
+  Nice\nType: Club\nTickets: https://ra.co/events/2335249\ndwellerforever.c
+ lub
+LOCATION:Nowadays\, 56-06 Cooper Ave\, Glendale\, NY 11385
+URL:https://ra.co/events/2335249
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e16@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T220000
+DTEND;TZID=America/New_York:20260221T060000
+SUMMARY:François X\, Cotton\, Juno\, Stacey Hotwaxx Hale\, Kilopatrah Jone
+ s\, Dennis Free @ Basement
+DESCRIPTION:DWELLER 2026 — Subterraneans\nArtists: François X, Cotton, J
+ uno, Stacey Hotwaxx Hale, Kilopatrah Jones, Dennis Free\nType: Club\nTicke
+ ts: https://ra.co/events/2340039\ndwellerforever.club
+LOCATION:Basement\, 52-19 Flushing Ave\, Maspeth\, NY 11378
+URL:https://ra.co/events/2340039
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e17@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T220000
+DTEND;TZID=America/New_York:20260221T040000
+SUMMARY:DJ Delish\, Zack Fox\, Honey Dip\, QEMIST\, DJ Nico @ Paragon
+DESCRIPTION:DWELLER 2026 — Percolation\nArtists: DJ Delish, Zack Fox, Hon
+ ey Dip, QEMIST, DJ Nico\nType: Club\nTickets: https://ra.co/events/2354435
+ \ndwellerforever.club
+LOCATION:Paragon\, 990 Broadway\, Brooklyn\, NY 11206
+URL:https://ra.co/events/2354435
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e18@dwellerforever.club
+DTSTART;TZID=America/New_York:20260220T220000
+DTEND;TZID=America/New_York:20260221T040000
+SUMMARY:Clit.Hub\, TR@NNYOFDETROIT\, DEMIIGODDESS\, DJCOWRIIIE B2B MS CARRI
+ E STACKS\, LITA DA DOLL\, SYD FALLS @ Signal
+DESCRIPTION:DWELLER 2026 — Lake Assal (Angelito Collective)\nArtists: Cli
+ t.Hub, TR@NNYOFDETROIT, DEMIIGODDESS, DJCOWRIIIE B2B MS CARRIE STACKS, LIT
+ A DA DOLL, SYD FALLS\nType: Club\nTickets: https://ra.co/events/2351673\nd
+ wellerforever.club
+LOCATION:Signal\, 175 Morgan Ave\, Brooklyn\, NY 11237
+URL:https://ra.co/events/2351673
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e19@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T220000
+DTEND;TZID=America/New_York:20260222T040000
+SUMMARY:Amarji King\, HYPERFEMME @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — Sea Shugga (Club Shugga)\nArtists: Amarji King
+ , HYPERFEMME\nType: Club\nTickets: https://ra.co/events/2354365\ndwellerfo
+ rever.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+URL:https://ra.co/events/2354365
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e20@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T190000
+DTEND;TZID=America/New_York:20260221T230000
+SUMMARY:GIGGS\, Junglepussy\, 454\, Anysia Kym\, dj blackpower @ Pioneer Wo
+ rks
+DESCRIPTION:DWELLER 2026 — World Dweller\nArtists: GIGGS, Junglepussy, 45
+ 4, Anysia Kym, dj blackpower\nType: Club, Workshop\nTickets: https://www.e
+ ventbrite.com/e/1981228784628\ndwellerforever.club
+LOCATION:Pioneer Works\, 159 Pioneer St\, Brooklyn\, NY 11231
+URL:https://www.eventbrite.com/e/1981228784628
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e21@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T190000
+DTEND;TZID=America/New_York:20260221T220000
+SUMMARY:Arewa Basit\, Kesswa\, chuki @ Public Records
+DESCRIPTION:DWELLER 2026 — Neap Tide\nArtists: Arewa Basit, Kesswa, chuki
+ \nType: Club\nTickets: https://ra.co/events/2359015\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2359015
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e22@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T230000
+DTEND;TZID=America/New_York:20260222T040000
+SUMMARY:DJ Firmeza\, Nidia\, DJ Marfox\, Leonce\, JAGU4R\, Ge-ology @ Publi
+ c Records
+DESCRIPTION:DWELLER 2026 — Canary Current\nArtists: DJ Firmeza, Nidia, DJ
+  Marfox, Leonce, JAGU4R, Ge-ology\nType: Club\nTickets: https://ra.co/even
+ ts/2348027\ndwellerforever.club
+LOCATION:Public Records\, 233 Butler St\, Brooklyn\, NY 11217
+URL:https://ra.co/events/2348027
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e23@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T220000
+DTEND;TZID=America/New_York:20260222T040000
+SUMMARY:DJ Travella\, MORENXXX\, Bastiengoat\, Blaize\, Dangerous Rose\, Mi
+ a Koden\, DJ Slugo\, Mala\, Juliana Huxtable b2b Bobby Beethoven @ Nowaday
+ s
+DESCRIPTION:DWELLER 2026 — Umbra\nArtists: DJ Travella, MORENXXX, Bastien
+ goat, Blaize, Dangerous Rose, Mia Koden, DJ Slugo, Mala, Juliana Huxtable 
+ b2b Bobby Beethoven\nType: Club\nTickets: https://ra.co/events/2335255\ndw
+ ellerforever.club
+LOCATION:Nowadays\, 56-06 Cooper Ave\, Glendale\, NY 11385
+URL:https://ra.co/events/2335255
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e24@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T220000
+DTEND;TZID=America/New_York:20260222T060000
+SUMMARY:DJ Bone\, Mutagenix\, Bapari\, Kevin Aviance\, Sekucci\, Mister Wal
+ lace @ Basement
+DESCRIPTION:DWELLER 2026 — Mariana Trench\nArtists: DJ Bone, Mutagenix, B
+ apari, Kevin Aviance, Sekucci, Mister Wallace\nType: Club\nTickets: https:
+ //ra.co/events/2340039\ndwellerforever.club
+LOCATION:Basement\, 52-19 Flushing Ave\, Maspeth\, NY 11378
+URL:https://ra.co/events/2340039
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e25@dwellerforever.club
+DTSTART;TZID=America/New_York:20260221T220000
+DTEND;TZID=America/New_York:20260222T040000
+SUMMARY:SHERELLE\, Oli XL\, saintclair\, Tromac\, Flotussin @ Paragon
+DESCRIPTION:DWELLER 2026 — Black Moon Lilith\nArtists: SHERELLE, Oli XL, 
+ saintclair, Tromac, Flotussin\nType: Club\nTickets: https://ra.co/events/2
+ 354437\ndwellerforever.club
+LOCATION:Paragon\, 990 Broadway\, Brooklyn\, NY 11206
+URL:https://ra.co/events/2354437
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e26@dwellerforever.club
+DTSTART;TZID=America/New_York:20260222T220000
+DTEND;TZID=America/New_York:20260223T040000
+SUMMARY:Carlos Souffront @ Bossa Nova Civic Club
+DESCRIPTION:DWELLER 2026 — The Bottom of the Map\nArtists: Carlos Souffro
+ nt\nType: Club\nTickets: https://ra.co/events/2354367\ndwellerforever.club
+LOCATION:Bossa Nova Civic Club\, 1271 Myrtle Ave\, Brooklyn\, NY 11221
+URL:https://ra.co/events/2354367
+END:VEVENT
+BEGIN:VEVENT
+UID:dweller2026-e27@dwellerforever.club
+DTSTART;TZID=America/New_York:20260227T220000
+DTEND;TZID=America/New_York:20260228T040000
+SUMMARY:S'aint Panic\, SHYBOI\, Akua b2b 1morning\, Sterac\, Juana @ Merge 
+ (LOC. TBA)
+DESCRIPTION:DWELLER 2026 — Flash Flood\nArtists: S'aint Panic, SHYBOI, Ak
+ ua b2b 1morning, Sterac, Juana\nType: Club\nTickets: https://ra.co/events/
+ 2350543\ndwellerforever.club
+LOCATION:Merge (LOC. TBA)
+URL:https://ra.co/events/2350543
+END:VEVENT
+END:VCALENDAR
